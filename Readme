@@ -1,0 +1,45 @@
+/*
+	Travis Stodter
+	Readme
+	4 Dec 2012
+	HW 3
+*/
+
+Documentation
+
+    Did you include an English explanation of your program, i.e., objectives and algorithms?
+		--Yes. Certainly sparse, but it is there.
+    Did you include title information?
+    		--Yes.
+    Does each function in your program have a description?
+		--Each one that needs one
+    Does each class in your program have a description?
+		--Each one that needs one and is not otherwise self-explanatory
+    Did you include comments on complicated parts of each function?
+		--On a couple.
+    Did you include comments on big steps of your main function?
+		--The process is mostly outlined.
+
+
+Compilation
+
+    On what machine did you compile your program?
+		--gauss, in the Sun Labs
+    Did your program compile without error?
+		--It did.
+    If your program compiled with errors, what are the errors?
+		--N/A
+
+
+Testing
+
+    How did you test your program?
+		--I ran it, and played with the controls, drawing, and buttons
+    What are the test data and what are the results?
+		--Test data was user input, no problems observed
+    Did you remember to test special cases? What special cases did you test your program on?
+		--None
+    Any observations about the behaviour of your program on the test data?
+		--It does not work quite as well as other drawing programs, but it
+		--suffices.
+
